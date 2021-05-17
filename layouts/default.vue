@@ -52,4 +52,19 @@ html {
   color: #fff;
   background-color: #35495e;
 }
+
+.button--pink {
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #bb57a7;
+  color: #bb57a7;
+  text-decoration: none;
+  padding: 10px 30px;
+  margin-left: 15px;
+}
+
+.button--pink:hover {
+  color: #fff;
+  background-color: #bb57a7;
+}
 </style>

@@ -20,6 +20,16 @@
         >
           GitHub
         </a>
+        <a href="http://localhost:6006" target="_blank" class="button--pink">
+          Storybook
+        </a>
+        <a
+          href="http://localhost:3000/_tailwind"
+          target="_blank"
+          class="button--grey"
+        >
+          Tailwind Explorer
+        </a>
       </div>
     </div>
   </div>
