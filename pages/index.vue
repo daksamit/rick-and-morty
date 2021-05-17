@@ -26,7 +26,15 @@
 </template>
 
 <script>
-export default {}
+import { defineComponent, onMounted } from '@vue/composition-api'
+
+export default defineComponent({
+  setup() {
+    onMounted(() => {
+      console.log('mounted!')
+    })
+  },
+})
 </script>
 
 <style>
